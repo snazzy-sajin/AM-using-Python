@@ -58,7 +58,7 @@ plt.plot(t,s)
 
 ## Tabular Column
 
-![AM using python](https://github.com/user-attachments/assets/5b582721-f218-4208-8ab5-a921f7d43a07)
+<img width="572" height="846" alt="image" src="https://github.com/user-attachments/assets/79c64d2a-04f4-49a6-8c68-f7fe1b6c6efb" />
 
 
 
